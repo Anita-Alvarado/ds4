@@ -1,0 +1,47 @@
+body{
+	padding: 10px;
+	background-color: bisque;
+	font-size: 125%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+}
+
+h1{
+    font-size: 150%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+}
+
+h2{
+    font-size: 130%;
+}
+
+dt{
+    font-size: 130%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+
+}
+
+dl{
+    padding: 20px;
+}
+
+img{
+    width:45%;
+    margin: 20px;
+    border: 20px black dotted;
+    border-color: black;
+}
+
+li {
+    display: inline-block;
+    margin: 10px;
+    padding-right: 30px;
+}
+
+.active{
+    color:black;
+    border: 10px dotted;
+}
+
+p {
+
+}
