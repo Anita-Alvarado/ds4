@@ -38,8 +38,17 @@ li {
 }
 
 .active{
-    color:black;
+    color:rgb(0, 128, 255);
     border: 10px dotted;
+}
+
+.skip {
+    position: absolute;
+    left: -1000px;
+}
+
+.skip:focus {
+    left: 0px;
 }
 
 p {
